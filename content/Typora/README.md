@@ -1,2 +1,0 @@
-# Writings
-My writings
