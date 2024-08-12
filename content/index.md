@@ -7,5 +7,4 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 我是蔡嘉文！
 
-npx quartz sync 就更新
 
