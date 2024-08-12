@@ -1,13 +1,42 @@
-# The Last Lecture
+---
+doc_type: weread-highlights-reviews
+bookId: CB_FUECxKCxwA1l6hJ6gWAHd2XN
+reviewCount: 0
+noteCount: 2
+author: Randy Pausch
+cover: https://res.weread.qq.com/wrepub/CB_FUECxKCxwA1l6hJ6gWAHd2XN_parsecover
+readingStatus: 未标记
+progress: 7%
+totalReadDay: 1
+readingTime: 0小时5分钟
+readingDate: 2023-06-29
+isbn: 
+lastReadDate: 2023-06-29
 
-![rw-book-cover](https://img1.od-cdn.com/ImageType-100/0017-1/{F99049C0-9B45-4259-97D8-F224CAC5067B}Img100.jpg)
+---
+# 元数据
+> [!abstract] The Last Lecture
+> - ![ The Last Lecture|200](https://res.weread.qq.com/wrepub/CB_FUECxKCxwA1l6hJ6gWAHd2XN_parsecover)
+> - 书名： The Last Lecture
+> - 作者： Randy Pausch
+> - 简介： 
+> - 出版时间： 
+> - ISBN： 
+> - 分类： 
+> - 出版社： Hyperion
+> - PC地址：https://weread.qq.com/web/reader/ab9427c3643425f46554543784b43787741316c36684a36675741486432584e793
 
-## Metadata
-- Author: [[Randy Pausch]]
-- Full Title: The Last Lecture
-- Category: #books
+# 高亮划线
 
-## Highlights
-- I had always liked the final scene in The Natural, when the aging, bleeding ballplayer Roy Hobbs miraculously hits that towering home run.
-- An injured lion wants to know if he can still roar,” I told Jai. “It’s about dignity and self-esteem, which isn’t quite the same as vanity.”
-- Whatever my accomplishments, all of the things I loved were rooted in the dreams and goals I had as a child...and in the ways I had managed to fulfill almost all of them.
+### Chapter 1 - An Injured Lion Still Wants to Roar
+
+> 📌 Whatever my accomplishments, all of the things I loved were rooted in the dreams and goals I had as a child...and in the ways I had managed to fulfill almost all of them. 
+> ⏱ 2023-06-29 19:25:37 ^CB-FUECxKCxwA1l6hJ6gWAHd2XN-7-44204-44374
+
+> 📌 My uniqueness, I realized, came in the specifics of all the dreams—from incredibly meaningful to decidedly quirky—that defined my forty-six years of life. 
+> ⏱ 2023-06-29 19:28:57 ^CB-FUECxKCxwA1l6hJ6gWAHd2XN-7-44375-44530
+
+# 读书笔记
+
+# 本书评论
+

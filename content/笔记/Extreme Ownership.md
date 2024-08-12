@@ -1,30 +1,190 @@
-# Extreme Ownership
+---
+doc_type: weread-highlights-reviews
+bookId: CB_0YoDgEDhT95n6h96gW6sGFBi
+reviewCount: 0
+noteCount: 22
+author: Jocko Willink
+cover: https://res.weread.qq.com/wrepub/CB_0YoDgEDhT95n6h96gW6sGFBi_parsecover
+readingStatus: 未标记
+progress: 88%
+totalReadDay: 4
+readingTime: 1小时36分钟
+readingDate: 2023-06-16
+isbn: 
+lastReadDate: 2023-06-18
 
-![rw-book-cover](https://img1.od-cdn.com/ImageType-100/2390-1/{6F40D15A-BDAF-43B0-B3C8-C0AA9A1CAF4A}Img100.jpg)
+---
+# 元数据
+> [!abstract] Extreme Ownership
+> - ![ Extreme Ownership|200](https://res.weread.qq.com/wrepub/CB_0YoDgEDhT95n6h96gW6sGFBi_parsecover)
+> - 书名： Extreme Ownership
+> - 作者： Jocko Willink
+> - 简介： 
+> - 出版时间： 
+> - ISBN： 
+> - 分类： 
+> - 出版社： St. Martin's Press
+> - PC地址：https://weread.qq.com/web/reader/8ea42993643425f30596f44674544685439356e36683936675736734746426982d
 
-## Metadata
-- Author: [[Jocko Willink]]
-- Full Title: Extreme Ownership
-- Category: #books
+# 高亮划线
 
-## Highlights
-- Despite all the failures of individuals, units, and leaders, and despite the myriad mistakes that had been made, there was only one person to blame for everything that had gone wrong on the operation: me. I hadn’t been with our sniper team when they engaged the Iraqi soldier. I hadn’t been controlling the rogue element of Iraqis that entered the compound. But that didn’t matter. As the SEAL task unit commander, the senior leader on the ground in charge of the mission, I was responsible for everything in Task Unit Bruiser. I had to take complete ownership of what went wrong. That is what a leader does—even if it means getting fired. If anyone was to be blamed and fired for what happened, let it be me.尽管有个人、单位和领导人的失败，尽管有无数的错误，但只有一个人要为行动中的一切错误负责：我。当我们的狙击小组与伊拉克士兵交战时，我没有和他们在一起。我没有控制进入大院的伊拉克人的流氓分子。但这并不重要。作为海豹突击队任务单位的指挥官，即在当地负责任务的高级领导人，我对 "布鲁斯 "任务单位的一切负责。我必须对出错的事情承担全部责任。这就是一个领导者所做的--即使这意味着被解雇。如果有人要为所发生的事情受到指责和解雇，那就应该是我。
-- “You know whose fault this is? You know who gets all the blame for this?” The entire group sat there in silence, including the CO, the CMC, and the investigating officer. No doubt they were wondering whom I would hold responsible. Finally, I took a deep breath and said, “There is only one person to blame for this: me. I am the commander. I am responsible for the entire operation. As the senior man, I am responsible for every action that takes place on the battlefield. There is no one to blame but me. And I will tell you this right now: I will make sure that nothing like this ever happens to us again.”"你知道这是谁的错吗？你知道这一切是谁的错吗？"整个小组坐在那里沉默不语，包括指挥官、CMC和调查官。毫无疑问，他们在想我将让谁负责。最后，我深吸了一口气，说："这事只能怪一个人：我。我是指挥官。我对整个行动负责。作为高级人员，我对战场上发生的每一个行动负责。除了我，没有人可以指责。我现在就告诉你：我将确保像这样的事情不会再发生在我们身上。"
-    - Tags: [[favorite]] 
-- Looking back, it is clear that, despite what happened, the full ownership I took of the situation actually increased the trust my commanding officer and master chief had in me. If I had tried to pass the blame on to others, I suspect I would have been fired—deservedly so. The SEALs in the troop, who did not expect me to take the blame, respected the fact that I had taken full responsibility for everything that had happened. They knew it was a dynamic situation caused by a multitude of factors, but I owned them all.
-- The best-performing SEAL units had leaders who accepted responsibility for everything. Every mistake, every failure or shortfall—those leaders would own it. During the debrief after a training mission, those good SEAL leaders took ownership of failures, sought guidance on how to improve, and figured out a way to overcome challenges on the next iteration. The best leaders checked their egos, accepted blame, sought out constructive criticism, and took detailed notes for improvement. They exhibited Extreme Ownership, and as a result, their SEAL platoons and task units dominated.
-- The best leaders don’t just take responsibility for their job. They take Extreme Ownership of everything that impacts their mission.
-    - Tags: [[favorite]] 
-- there are no bad teams, only bad leaders.
-    - Tags: [[favorite]] 
-- Leaders should never be satisfied. They must always strive to improve, and they must build that mind-set into the team. They must face the facts through a realistic, brutally honest assessment of themselves and their team’s performance. Identifying weaknesses, good leaders seek to strengthen them and come up with a plan to overcome challenges.
-    - Tags: [[favorite]] 
-- But I learned that good leaders don’t make excuses. Instead, they figure out a way to get it done and win.”
-    - Tags: [[favorite]] 
-- Most important of all, he believed winning was possible. In a boat crew where winning seemed so far beyond reach, the belief that the team actually could improve and win was essential.”
-    - Note: I need to believe my family members could improve and win.
-- In order to convince and inspire others to follow and accomplish a mission, a leader must be a true believer in the mission. Even when others doubt and question the amount of risk, asking, “Is it worth it?” the leader must believe in the greater cause. If a leader does not believe, he or she will not take the risks required to overcome the inevitable challenges necessary to win. And they will not be able to convince others—especially the frontline troops who must execute the mission—to do so. Leaders must always operate with the understanding that they are part of something greater than themselves and their own personal interests. They must impart this understanding to their teams down to the tactical-level operators on the ground. Far more important than training or equipment, a resolute belief in the mission is critical for any team or organization to win and achieve big results.为了说服和激励他人追随并完成任务，领导者必须是任务的真正信仰者。即使其他人怀疑并质疑风险的大小，问道："这值得吗？"领导者必须相信更大的事业。如果一个领导者不相信，他或她就不会承担必要的风险，以克服获胜所需的不可避免的挑战。他们也将无法说服其他人--特别是必须执行任务的前线部队--这样做。领导者必须始终理解他们是比自己和自己的个人利益更伟大的事物的一部分。他们必须将这种认识传授给他们的团队，直至地面上的战术级操作人员。对任何团队或组织来说，对任务的坚定信念远比训练或装备更重要，它是赢得胜利和取得重大成果的关键。
-- The leader must explain not just what to do, but why.
-- “Ownership of everything!” I answered. “This isn’t his fault, it’s yours. You are in charge, so the fact that he didn’t follow procedure is your fault. And you have to believe that, because it’s true. When you talk to him, you need to start the conversation like this: ‘Our team made a mistake and it’s my fault. It’s my fault because I obviously wasn’t as clear as I should have been in explaining why we have these procedures in place and how not following them can cost the company hundreds of thousands of dollars. You are an extremely skilled and knowledgeable superintendent. You know more about this business than I ever will. It was up to me to make sure you know the parameters we have to work within and why some decisions have got to be run through me. Now, I need to fix this so it doesn’t happen again.’”"一切的所有权！"我回答。"这不是他的错，是你的错。你是负责人，所以他没有遵循程序的事实是你的错。而且你必须相信这一点，因为这是事实。当你和他谈话时，你需要这样开始谈话：'我们的团队犯了一个错误，这是我的错。这是我的错，因为我显然没有像我应该做的那样清楚地解释为什么我们有这些程序，以及不遵守这些程序会使公司损失几十万美元。你是一个非常熟练和知识渊博的监管人。你比我更了解这项业务。我有责任确保你知道我们必须在哪些参数范围内工作，以及为什么有些决定必须通过我。现在，我需要解决这个问题，这样它就不会再发生了"。
-- When personal agendas become more important than the team and the overarching mission’s success, performance suffers and failure ensues.
-- Implementing Extreme Ownership requires checking your ego and operating with a high degree of humility. Admitting mistakes, taking ownership, and developing a plan to overcome challenges are integral to any successful team. Ego can prevent a leader from conducting an honest, realistic assessment of his or her own performance and the performance of the team.
+## Preface
+
+> 📌 But in the SEAL program, it is all about the Team. The sum is far greater than the parts. 
+> ⏱ 2023-06-16 10:53:41 ^CB-0YoDgEDhT95n6h96gW6sGFBi-7-15561-15749
+
+### 7. Prioritize and Execute
+
+> 📌 leaders must determine the highest priority task and execute. When overwhelmed, fall back upon this principle: Prioritize and Execute. 
+> ⏱ 2023-06-16 19:43:54 ^CB-0YoDgEDhT95n6h96gW6sGFBi-25-71996-72130
+
+> 📌 特别是对于组织的高层领导来说，"把自己从火线上拉下来"，退后一步，并保持战略视野。这对于帮助团队正确地确定优先次序至关重要。有了这样的视角，就更容易确定最优先的工作，并将所有的精力集中在其执行上。然后，高级领导必须帮助团队中的下属领导确定他们工作的优先次序。 
+> ⏱ 2023-06-16 20:06:51 ^CB-0YoDgEDhT95n6h96gW6sGFBi-25-76697-76826
+
+### 8. Decentralized Command
+
+> 📌 人类一般没有能力管理超过六到十个人，特别是当事情出现偏差和不可避免的突发事件发生时。不能指望一个高级领导去管理几十个人，更不用说几百个人。团队必须被分解成由四到五个操作员组成的可管理的元素，并有一个明确指定的领导者。 
+> ⏱ 2023-06-16 20:20:11 ^CB-0YoDgEDhT95n6h96gW6sGFBi-27-88532-88640
+
+> 📌 leaders must constantly communicate and push information—what we call in the military “situational awareness”—to their subordinate leaders. 
+> ⏱ 2023-06-16 20:23:28 ^CB-0YoDgEDhT95n6h96gW6sGFBi-27-90828-90967
+
+> 📌 The fix is to empower frontline leaders through Decentralized Command and ensure they are running their teams to support the overall mission, without micromanagement from the top. 
+> ⏱ 2023-06-17 07:51:54 ^CB-0YoDgEDhT95n6h96gW6sGFBi-27-92062-92241
+
+> 📌 有时，军官走得太靠前，以至于他被吸进每个房间的间隙，这意味着他不断地进入房间，与目标交战。当这种情况发生时，他就会专注于眼前房间里发生的细枝末节，而失去了对团队其他成员发生的情况的认识，无法再提供有效的指挥和控制。还有一些时候，警官被困在火车的后面，负责清理工作。当这种情况发生时，他在后方太远，无法知道前面发生了什么，无法指挥他的突击队。我向许多军官建议，正确的参与程度--对他们来说正确的位置--是在中间的某个地方，一般是与他们的大部分部队在一起：不要太靠前，以至于他们被吸进每个房间的清理工作，但也不要太靠后，以至于他们不知道前面发生了什么。 
+> ⏱ 2023-06-17 07:54:12 ^CB-0YoDgEDhT95n6h96gW6sGFBi-27-96467-96741
+
+### 9. Plan
+
+> 📌 The mission must explain the overall purpose and desired result, or “end state,” of the operation. The frontline troops tasked with executing the mission must understand the deeper purpose behind the mission. While a simple statement, the Commander’s Intent is actually the most important part of the brief. When understood by everyone involved in the execution of the plan, it guides each decision and action on the ground.
+   任务必须解释行动的总体目的和预期结果，或 "最终状态"。负责执行任务的前线部队必须了解任务背后更深层次的目的。虽然是简单的陈述，但指挥官的意图实际上是简报中最重要的部分。当参与执行计划的每个人都理解时，它就会指导地面上的每个决定和行动。 
+> ⏱ 2023-06-17 10:00:56 ^CB-0YoDgEDhT95n6h96gW6sGFBi-30-61843-62773
+
+> 📌 Those who will not risk cannot win. 
+> ⏱ 2023-06-18 00:17:48 ^CB-0YoDgEDhT95n6h96gW6sGFBi-30-69792-69827
+
+> 📌 A leader’s checklist for planning should include the following:
+   领导者的计划清单应包括以下内容：
+   • Analyze the mission.
+   - 分析任务。
+   —Understand higher headquarters’ mission, Commander’s Intent, and endstate (the goal).
+   -了解上级总部的任务、指挥官的意图和最终状态（目标）。
+   —Identify and state your own Commander’s Intent and endstate for the specific mission.
+   -确定并说明你自己的指挥官的意图和具体任务的最终状态。
+   • Identify personnel, assets, resources, and time available.
+   - 确定人员、资产、资源和可用时间。
+   • Decentralize the planning process.
+   - 分散规划过程。
+   —Empower key leaders within the team to analyze possible courses of action.
+   -授权团队内的主要领导人分析可能的行动方案。
+   • Determine a specific course of action.
+   - 确定一个具体的行动方案。
+   —Lean toward selecting the simplest course of action.
+   -倾向于选择最简单的行动方案。
+   —Focus efforts on the best course of action.
+   -将精力集中在最佳行动方案上。
+   • Empower key leaders to develop the plan for the selected course of action.
+   - 赋予主要领导人权力，为选定的行动方案制定计划。
+   • Plan for likely contingencies through each phase of the operation.
+   - 在行动的每个阶段都要对可能出现的意外情况进行规划。
+   • Mitigate risks that can be controlled as much as possible.
+   - 尽可能地减少可以控制的风险。
+   • Delegate portions of the plan and brief to key junior leaders.
+   - 将计划和简报的部分内容委托给主要的初级领导人。
+   —Stand back and be the tactical genius.
+   -站在后面，成为战术天才。
+   • Continually check and question the plan against emerging information to ensure it still fits the situation.
+   - 根据新出现的信息不断检查和质疑该计划，以确保它仍然符合情况。
+   • Brief the plan to all participants and supporting assets.
+   - 向所有参与者和支持性资产介绍该计划。
+   —Emphasize Commander’s Intent.
+   -强调指挥官的意图。
+   —Ask questions and engage in discussion and interaction with the team to ensure they understand.
+   -提出问题，与团队进行讨论和互动，确保他们理解。
+   • Conduct post-operational debrief after execution.
+   - 执行后进行行动后的汇报。
+   —Analyze lessons learned and implement them in future planning.
+   -分析经验教训，并在未来的规划中实施。 
+> ⏱ 2023-06-18 00:30:08 ^CB-0YoDgEDhT95n6h96gW6sGFBi-30-74282-86354
+
+> 📌 As a leader, if you are down in the weeds planning the details with your guys,” said Jocko, “you will have the same perspective as them, which adds little value. But if you let them plan the details, it allows them to own their piece of the plan. And it allows you to stand back and see everything with a different perspective, which adds tremendous value. You can then see the plan from a greater distance, a higher altitude, and you will see more. As a result, you will catch mistakes and discover aspects of the plan that need to be tightened up, which enables you to look like a tactical genius, just because you have a broader view.” 
+> ⏱ 2023-06-18 13:42:12 ^CB-0YoDgEDhT95n6h96gW6sGFBi-30-117763-118401
+
+### 10. Leading Up and Down the Chain of Command
+
+> 📌 As a leader employing Extreme Ownership, if your team isn’t doing what you need them to do, you first have to look at yourself. Rather than blame them for not seeing the strategic picture, you must figure out a way to better communicate it to them in terms that are simple, clear, and concise, so that they understand. This is what leading down the chain of command is all about.
+   作为一个采用 "极端所有权 "的领导者，如果你的团队没有做你需要他们做的事情，你首先要反省自己。与其责怪他们没有看到战略图景，你必须想办法用简单、清晰、简洁的语言将其更好地传达给他们，让他们明白。这就是领导指挥系统的意义所在。 
+> ⏱ 2023-06-18 17:37:25 ^CB-0YoDgEDhT95n6h96gW6sGFBi-32-51756-52636
+
+> 📌 Leadership doesn’t just flow down the chain of command, but up as well,” he said. “We have to own everything in our world. That’s what Extreme Ownership is all about.”
+   Jocko在审视自己在链条上的挫折时得到了这种顿悟。"他说："领导力不仅仅是在指挥链上流动，也要向上流动。"我们必须拥有我们世界上的一切。这就是 "极端所有权 "的意义所在。 
+> ⏱ 2023-06-18 17:41:21 ^CB-0YoDgEDhT95n6h96gW6sGFBi-32-79953-80595
+
+> 📌 Take responsibility for leading everyone in your world, subordinates and superiors alike.
+   - 承担起领导你世界中每个人的责任，包括下属和上级。 
+> ⏱ 2023-06-18 18:00:03 ^CB-0YoDgEDhT95n6h96gW6sGFBi-32-95994-96609
+
+### 11. Decisiveness amid Uncertainty
+
+> 📌 On Monday morning, they both still insisted they could not work together and each demanded that the other be fired. Instead, and to their surprise, the commanding officer fired them both.” 
+> ⏱ 2023-06-18 18:13:55 ^CB-0YoDgEDhT95n6h96gW6sGFBi-34-94828-95016
+
+### 12. Discipline Equals Freedom—The Dichotomy of Leadership
+
+> 📌 The Dichotomy of Leadership
+   领导力的二分法
+   A good leader must be:
+   一个好的领导者必须是：
+   • confident but not cocky;
+   - 自信但不自大；
+   • courageous but not foolhardy;
+   - 勇敢但不愚蠢；
+   • competitive but a gracious loser;
+   - 有竞争力，但却是一个亲切的失败者；
+   • attentive to details but not obsessed by them;
+   - 关注细节，但不为其所迷惑；
+   • strong but have endurance;
+   - 坚强但有耐力；
+   • a leader and follower;
+   - 一个领导者和追随者；
+   • humble not passive;
+   - 谦虚而不消极；
+   • aggressive not overbearing;
+   - 咄咄逼人，不卑不亢；
+   • quiet not silent;
+   - 安静不是沉默；
+   • calm but not robotic, logical but not devoid of emotions;
+   - 平静但不是机器人，有逻辑但不是没有感情；
+   • close with the troops but not so close that one becomes more important than another or more important than the good of the team; not so close that they forget who is in charge.
+   - 与部队关系密切，但不至于亲密到一个人比另一个人更重要或比团队的利益更重要；不至于亲密到忘记谁是负责人。
+   • able to execute Extreme Ownership, while exercising Decentralized Command.
+   - 能够执行极端的所有权，同时行使分散的指挥权。
+   A good leader has nothing to prove, but everything to prove.
+   一个好的领导者没有什么需要证明的，但却要证明一切。 
+> ⏱ 2023-06-18 19:10:25 ^CB-0YoDgEDhT95n6h96gW6sGFBi-36-69866-78282
+
+> 📌 早起是我在海豹突击队中注意到的第一个例子，在这个例子中，纪律确实是优秀和卓越之间的区别。我在一些年长的、有经验的海豹队员身上看到了这一点。那些比其他人都早到岗的人被认为是最好的 "操作者"。这意味着他们有最好的野战工具，最整齐的装备，他们是最好的射手，而且他们是最受尊敬的。这一切都与纪律相联系。我所说的纪律，是指一种内在的自律，即个人意志的问题。与我共事过的最好的海豹队员无一例外地都是最有纪律的。他们早起。他们每天都锻炼身体。他们研究战术和技术 
+> ⏱ 2023-06-18 18:16:52 ^CB-0YoDgEDhT95n6h96gW6sGFBi-36-43897-44121
+
+> 📌 A leader must lead but also be ready to follow. Sometimes, another member of the team—perhaps a subordinate or direct report—might be in a better position to develop a plan, make a decision, or lead through a specific situation. Perhaps the junior person has greater expertise in a particular area or more experience. Perhaps he or she simply thought of a better way to accomplish the mission. Good leaders must welcome this, putting aside ego and personal agendas to ensure that the team has the greatest chance of accomplishing its strategic goals. A true leader is not intimidated when others step up and take charge. Leaders that lack confidence in themselves fear being outshined by someone else. If the team is successful, then recognition will come for those in charge, but a leader should not seek that recognition. A leader must be confident enough to follow someone else when the situation calls for it. 
+> ⏱ 2023-06-18 18:21:26 ^CB-0YoDgEDhT95n6h96gW6sGFBi-36-54896-55809
+
+> 📌 They must be able to stand up for the team and respectfully push back against a decision, order, or direction that could negatively impact overall mission success. 
+> ⏱ 2023-06-18 18:24:52 ^CB-0YoDgEDhT95n6h96gW6sGFBi-36-64523-64686
+
+> 📌 A leader must be close with subordinates but not too close. The best leaders understand the motivations of their team members and know their people—their lives and their families. But a leader must never grow so close to subordinates that one member of the team becomes more important than another, or more important than the mission itself. Leaders must never get so close that the team forgets who is in charge. 
+> ⏱ 2023-06-18 18:25:35 ^CB-0YoDgEDhT95n6h96gW6sGFBi-36-65327-65740
+
+> 📌 由于团队明白领导者是事实上的负责人，在这方面，领导者没有什么需要证明的。但在另一个方面，领导者需要证明一切：团队的每个成员都必须建立信任和信心，相信他们的领导者会有良好的判断力，保持冷静，并在最关键的时候做出正确的决定。领导者必须赢得这种尊重，证明自己的价值，通过行动证明他们会照顾团队，并为他们的长期利益和福祉着想。在这方面，领导者每天都要证明一切。 
+> ⏱ 2023-06-18 19:06:39 ^CB-0YoDgEDhT95n6h96gW6sGFBi-36-68536-68712
+
+## Afterword
+
+> 📌 Some of the boldest, most successful plans in history have not come from the senior ranks but from frontline leaders. Senior leaders simply had the courage to accept and run with them. 
+> ⏱ 2023-06-18 20:58:52 ^CB-0YoDgEDhT95n6h96gW6sGFBi-39-16164-16736
+
+# 读书笔记
+
+# 本书评论
+
