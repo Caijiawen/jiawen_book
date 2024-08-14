@@ -1,11 +1,13 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到嘉文之书
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+你好，我是蔡嘉文，这是我的个人网站。
 
-我是蔡嘉文！
+[[个人简介]]
+
+[[网站使用说明]]
 
 
-不会再有几把复制文件了吧？
+
+
