@@ -52,6 +52,80 @@
 - 用户生成的照片：每次用户生成图片以后，把图片上传到 google cloud storage , 并记录下链接地址，作为用户资产存储
 现在请你帮我生成数据库对应的字段，并在合适的位置更新数据库
 
+---
+现在我们开始重新设计 Pricing 页面，这个页面需要包含以下内容：
+- 上方的导航栏保持原样
+- 主体部分：
+	- 介绍定价的卡片：把 Train Model 和 Take Photo 的定价信息做成卡片，卡片放在屏幕中央
+	- 充值按钮：在卡片下方，设计两个充值按钮，一个按钮是“充值 10 美元”，另一个是“充值 100 美元” ， 按钮使用黑底白字
+	- 在充值按钮下方写一行字：“现在充值，立享最高 10% 优惠”
+
+---
+当用户点击“充值 10 美元”后，他们会进入充值页面（payment.html ) , 这个页面包含以下内容：
+- Please send **Amount** worth of USDT(TRON network) to the following address: TAfWovFRRm6ZvU44HTfMRFp21iJabdmBtb  Before: **Deadline**
+- 在这行字上方是收款地址的二维码，用户可以扫码支付
+
+其中 **Amount** 和 **Deadline** 的值由后台提供，当用户点击“充值 10 美元”按钮时，后台会生成一个订单，这个订单包含以下信息：
+- 发起用户：发起订单的用户id
+- 发起时间：用户发起订单的时间
+- 过期时间：用户发起订单的时间+30 分钟 , 这就是 **Deadline** 的值
+- 金额： 如果用户选择的是充值 10 美元，那么 **Amount** = 10 - round(random.random(), 3)
+我们需要用数据库记录这个订单的信息。
+需要注意的是，在生成订单之前，我们先要扫描一遍数据库内所有活动订单（即现在时间< **Deadline** 的订单)，确保我们生成的金额 **Amount** 与所有活动订单的金额不同，后续可以根据金额确定是哪个用户在充值。
+此外，当用户有活动订单时（即现在时间< **Deadline** 的订单) ， 用户无法生成新订单，如果点击“充值 10 美元” ， 进入的是现在的活动订单对应的页面。 
+
+所以我们需要一个 scanner 程序来监控 TAfWovFRRm6ZvU44HTfMRFp21iJabdmBtb 地址是否收到 USDT , 如果扫描到收款，那么应该按照金额数量在数据库中找到相应订单,并为相应用户上账。（所以数据库 User 表还需要加入 balance 字段）
+
+---
+我要重新说下充值页面（payment/orderid )的内容，这个页面包含以下内容并居中：
+
+- Please send **Amount** USDT(TRON network) to the following address: TAfWovFRRm6ZvU44HTfMRFp21iJabdmBtb  
+- Please complete the payment before: **expired at**
+
+其中**Amount** 是 orderid 对应的 amount 金额 ， **expired at**是 orderid 对应的 expires_at  (数据从数据库里拿)
+
+---
+现在我希望实现 scanner 程序。
+scanner 程序的作用是监控 TRON 网络地址 TAfWovFRRm6ZvU44HTfMRFp21iJabdmBtb 最近的收款，如果有新的收款，那么与数据库里的 Order 匹配（匹配的过程是看金额是否一致，要精确到三位小数都一样) 
+如果能匹配上，而且 Order 的 status 是 pending , 那么我们会为用户上账， 在用户的 balance 上面加上 10 美元 ， 同时把 Order 的 status 改成 completed。
+
+---
+现在再看看，photo-ai-flask 还有什么需要做的内容：
+1. 把 scanner 程序给调试通，并且集成到 app.py 中去  （今天的任务）
+2. 测试整个支付功能是否能够正确运行 （下午做）
+3. 每次 train 或者 take photo 的时候扣费，如果 balance 不够，拒绝用户的请求
+4. 实现 billing 页面， 展示用户的 balance , 每一笔充值和消费
+5. 实现 dashboard 页面，展示用户的历史 train 和 take photo (take photo 也许可以做成画廊，展示 prompt 和照片)
+6. 把应用部署到 zeabur (并且开会员)
+7.  实现 prompt generator (用语言模型帮用户生成 prompt)
+
+---
+
+现在我希望重新设计 dashboard 页面：
+- 保持顶部导航栏不变
+- 主体部分设计：
+	- 展示 google 用户名，以及用户的余额（balance)
+	- 展示用户训练过的所有模型
+		- 包括模型的名字，和创建的时间
+	- 展示用户生成的照片
+		- 以卡片形式展示，每张卡片展示照片的 prompt 和相应的图片
+
+--- 
+现在我希望实现收费的功能，首先，我需要增加一个新的表 ConsumeOrder，来记录用户在平台上的消费记录。这个表应该包括用户，订单创建时间，订单类型（比如'train model' , 'take photo') , 订单金额 ， 以及你认为应该增加的字段。
+
+---
+现在我希望实现 billing 页面：
+- 保持顶部导航栏不变
+- 主体部分设计：
+	- 展示用户名和用户余额（balance)
+	- 展示用户的充值记录（包括 pending 和 expired 的订单），最多展示 10 条
+	- 展示用户的消费记录 ， 最多展示 10 条
+
+---
+要做的有几件事：
+- 配置好 fly.io 的 fly postgresql
+- 重新部署应用，用 postgresql
+- 用 fastapi 重构应用
 
 
 
