@@ -126,6 +126,12 @@ scanner 程序的作用是监控 TRON 网络地址 TAfWovFRRm6ZvU44HTfMRFp21iJab
 - 配置好 fly.io 的 fly postgresql
 - 重新部署应用，用 postgresql
 - 用 fastapi 重构应用
+---- 
+现在我准备写一个 doc 页面，来告诉用户如何使用这个网站，请帮我扩写内容并翻译成英文，并且作为 doc 页面，另外请把 doc 页面的按钮放在 Pricing 页面的左边（注意要改每一个页面的导航栏）
+
+1. 充值：在 pricing 页面中点击充值按钮进入充值，请在规定时间之前，向地址打款精准的金额（比如 9.324USDT） ，只有精准的金额才能保证上账，务必注意确认数值与要求的值完全一致
+2. train model: 这一步的主要目的是让图像模型学习你上传照片的脸部细节和身体细节，请上传 15-20 张包含脸部细节或身体细节的高清照片，压缩成 zip 并上传，另外需要指定一个 trigger word , 这个 trigger word 后续会作为模型名称，并且在 prompt 中被当做调取你的脸部细节的词语
+3. take photo: 这一步可以生成照片，尽量使用具体的 prompt 来获得更好的效果，记得加入 trigger word 以生成你的特别照片
 
 
 
@@ -160,6 +166,40 @@ Dashboard 包含 Train , Take photo , Pricing 三个页面。
 
 你能否给我一个 step by step 的建议？
 
+## prompt生成器
+
+请根据内容 {小帅坐在红色法拉利上，在海边公路上，现实照片风格} ，按照以下格式
+"""
+Here is photo prompt for you:
+{prompt content}
+"""
+生成 stable diffusion prompt
+
+
+## prompt集合
+
+
+
+
+
+成年女性
+
+
+成年男性
+
+>realistic photograph, professional NBA player LIDASHUAI, wearing Los Angeles Lakers jersey, athletic build, basketball court background, dynamic pose, high-quality sports photography, sharp focus, dramatic lighting, 8K resolution
+
+
+小朋友
+
+>A photorealistic image of caixingxing sitting on a red Ferrari, the car parked on a coastal road by the sea, high-quality, detailed, 8k resolution, natural lighting, cinematic composition, vibrant colors, ocean view, scenic coastline, sunny day, clear sky, Ferrari logo visible, sleek car design, reflective car paint, person in casual attire, relaxed pose, palm trees in background
+
+狗
+
+
+
+
+猫
 
 
 ## 项目进度
